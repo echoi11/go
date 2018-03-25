@@ -1,0 +1,21 @@
+https://golang.org/doc/code.html
+
+What's next
+Subscribe to the golang-announce mailing list to be notified when a new stable version of Go is released.
+
+See Effective Go for tips on writing clear, idiomatic Go code.
+https://golang.org/doc/effective_go.html
+
+
+Take A Tour of Go to learn the language proper.
+https://tour.golang.org/
+
+Visit the documentation page for a set of in-depth articles about the Go language and its libraries and tools.
+https://golang.org/doc/#articles
+
+Getting help
+For real-time help, ask the helpful gophers in #go-nuts on the Freenode IRC server.
+
+The official mailing list for discussion of the Go language is Go Nuts.
+
+Report bugs using the Go issue tracker.
